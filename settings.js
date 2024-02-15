@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94719270825",
+  SUDO_NUMBERS : "94772582662,94702637105,19292258891,94715733954",
+  OWNER_NAME: "WEBPIXGRAPHY",
+  BOT_NAME : "X TALK BOT",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -27,16 +27,16 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '',
+  STICKER_PACK : 'X TALK BOT',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -52,9 +52,9 @@ module.exports = {
      ONLY_COMMANDS : false,
      STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
